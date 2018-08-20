@@ -1,4 +1,4 @@
-# grizzly_web_project_vue
+# front
 
 > A Vue.js project
 
